@@ -43,9 +43,9 @@ No fim das contas, sou alguém que gosta de programar, explorar ideias novas, ap
 
 <p align="center">
   <a href="https://github.com/Burk_087">
-    <img src="https://github-readme-stats.vercel.app/api?username=Burk087&show_icons=true&theme=github_dark" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Burk087&show_icons=true&theme=github_dark" />
   </a>
-  <a href="https://github.com/Burk087?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Burk_087&layout=compact&theme=github_dark" />
+  <a href="https://github.com/Burk_087?tab=repositories">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Burk087&theme=github_dark" />
   </a>
 </p>
