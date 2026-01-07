@@ -1,6 +1,6 @@
 ## 👋 Opa!!! Luiz aqui.
 
-Sou **pesquisador científico na área de Inteligência Artificial**, com foco no estudo, desenvolvimento e aplicação de modelos e técnicas de IA, sempre buscando unir teoria e prática.
+Sou pesquisador científico na área de Inteligência Artificial, com foco no estudo, desenvolvimento e aplicação de modelos e técnicas de IA, sempre buscando unir teoria e prática.
 
 No fim das contas, sou alguém que gosta de programar, explorar ideias novas, aprender e compartilhar o que dá por aqui 😄
 
