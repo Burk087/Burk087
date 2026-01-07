@@ -1,6 +1,9 @@
 ##     Opa!!! Luiz Aqui.
 
-aaaaaaaaaaaaaa
+Sou pesquisador científico na área de Inteligência Artificial, com foco no estudo, desenvolvimento e aplicação de modelos e técnicas de IA, sempre buscando unir teoria e prática.
+
+Aqui no GitHub compartilho e guardo alguns projetos de pesquisa, estudos, experimentos e códigos feitos por curiosidade (ou por diversão mesmo 😄).  
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
