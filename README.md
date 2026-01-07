@@ -2,7 +2,7 @@
 
 Sou **pesquisador científico na área de Inteligência Artificial**, com foco no estudo, desenvolvimento e aplicação de modelos e técnicas de IA, sempre buscando unir teoria e prática.
 
-Estou sempre explorando ideias novas, aprendendo e compartilhando o que dá por aqui 😄
+No fim das contas, sou alguém que gosta de programar, explorar ideias novas, aprender e compartilhar o que dá por aqui 😄
 
 ---
 
@@ -41,6 +41,11 @@ Estou sempre explorando ideias novas, aprendendo e compartilhando o que dá por 
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Burk087&show_icons=true&theme=github_dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Burk087&layout=compact&theme=github_dark)
+<p align="center">
+  <a href="https://github.com/Burk_087">
+    <img src="https://github-readme-stats.vercel.app/api?username=Burk087&show_icons=true&theme=github_dark" />
+  </a>
+  <a href="https://github.com/Burk_087?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Burk087&layout=compact&theme=github_dark" />
+  </a>
+</p>
