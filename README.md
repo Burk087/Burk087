@@ -20,3 +20,12 @@ Estou sempre explorando ideias novas, aprendendo e compartilhando o que dá por 
   <a href="www.linkedin.com/in/luiz-augusto-manfron-matias-a828472a4" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=github_dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=github_dark)
+
+##
