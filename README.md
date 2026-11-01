@@ -204,6 +204,10 @@ A pesquisa científica tem um espaço importante entre os meus interesses. Valor
 
 <br/><br/>
 
+<img width="100%" src="profile/pdi-network.svg" alt="Rede neural animada: Pesquisa, Desenvolvimento e Inovação" />
+
+<br/><br/>
+
 ### Vamos nos conectar?
 
 <a href="https://www.linkedin.com/in/luiz-augusto-manfron-matias-a828472a4"><img src="https://img.shields.io/badge/LinkedIn-2A1450?style=for-the-badge&logo=linkedin&logoColor=D8B4FE" /></a>
