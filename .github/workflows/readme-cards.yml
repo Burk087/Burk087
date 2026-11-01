@@ -18,16 +18,8 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: "username=${{ github.repository_owner }}&show_icons=true&include_all_commits=true&locale=pt-br&hide_border=true&bg_color=10051F&title_color=D8B4FE&icon_color=A78BFA&text_color=E9D5FF&ring_color=8054B8"
+          options: "username=${{ github.repository_owner }}&show_icons=true&include_all_commits=true&locale=pt-br&hide_border=true&bg_color=10051F&title_color=D8B4FE&icon_color=A78BFA&text_color=E9D5FF&ring_color=8054B8&card_width=495"
           path: profile/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Card de linguagens
-        uses: stats-organization/github-readme-stats-action@v2
-        with:
-          card: top-langs
-          options: "username=${{ github.repository_owner }}&layout=compact&langs_count=8&locale=pt-br&hide_border=true&bg_color=10051F&title_color=D8B4FE&text_color=E9D5FF"
-          path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Cobrinha de contribuições
