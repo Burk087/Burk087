@@ -18,21 +18,21 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:6D42A6,100:10051F&text=Sobre%20mim&fontSize=30&fontColor=F5EEFF&fontAlignY=38" />
 
-Tenho interesse na interseção entre **ciência, tecnologia e inovação**, com atuação profissional em consultoria na área de incentivos e mecanismos de fomento à inovação.
+Me interesso pelo ponto em que **ciência, tecnologia e inovação** se encontram. Hoje trabalho com consultoria em incentivos e mecanismos de fomento à inovação.
 
-Minha trajetória também envolve **pesquisa científica, inteligência artificial e desenvolvimento de soluções computacionais**. Busco compreender os fundamentos das tecnologias, investigar problemas e conectar conhecimento científico à sua aplicação prática.
+Além disso, tenho uma trajetória ligada à **pesquisa científica, à inteligência artificial e ao desenvolvimento de soluções computacionais**. Gosto de entender como as tecnologias funcionam por dentro, investigar problemas a fundo e levar o conhecimento científico para a prática.
 
-Acredito na integração entre pesquisa, desenvolvimento tecnológico e inovação como caminho para transformar conhecimento em soluções relevantes.
+Acredito que é da união entre pesquisa, desenvolvimento tecnológico e inovação que o conhecimento vira solução de verdade.
 
 <br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:10051F,100:6D42A6&text=Atua%C3%A7%C3%A3o%20profissional&fontSize=30&fontColor=F5EEFF&fontAlignY=38" />
 
-Atuação profissional em consultoria na área de **Ciência, Tecnologia e Inovação (CT&I)**, com foco em incentivos fiscais e instrumentos de fomento e financiamento voltados à pesquisa, ao desenvolvimento tecnológico e à inovação.
+Trabalho com consultoria em **Ciência, Tecnologia e Inovação (CT&I)**, principalmente com incentivos fiscais e instrumentos de fomento e financiamento para pesquisa, desenvolvimento tecnológico e inovação.
 
-Interesse e atuação na **identificação de oportunidades, análise de requisitos e estruturação de projetos**, auxiliando empresas na viabilização de iniciativas de inovação e no aproveitamento de mecanismos de apoio à Pesquisa, Desenvolvimento e Inovação (PD&I).
+No dia a dia, identifico oportunidades, analiso requisitos e ajudo a **estruturar projetos**, para que as empresas consigam tirar suas iniciativas de inovação do papel e aproveitar os mecanismos de apoio à Pesquisa, Desenvolvimento e Inovação (PD&I).
 
-A atuação envolve a compreensão de **políticas públicas, marcos legais e instrumentos de incentivo** destinados a fortalecer a capacidade de pesquisa, desenvolvimento e inovação no ambiente empresarial.
+Para isso, é essencial conhecer bem as **políticas públicas, os marcos legais e os instrumentos de incentivo** que existem para fortalecer a PD&I dentro das empresas.
 
 <p align="center">
   <img src="https://img.shields.io/badge/Incentivos%20fiscais-2A1450?style=flat-square" />
@@ -46,13 +46,13 @@ A atuação envolve a compreensão de **políticas públicas, marcos legais e in
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:6D42A6,100:10051F&text=Pesquisa%20cient%C3%ADfica&fontSize=30&fontColor=F5EEFF&fontAlignY=38" />
 
-A investigação científica é uma parte importante dos meus interesses. Valorizo o **rigor metodológico** e a construção de conhecimento fundamentado em evidências, em diferentes etapas do processo científico:
+A pesquisa científica tem um espaço importante entre os meus interesses. Valorizo o **rigor metodológico** e o conhecimento construído a partir de evidências, em cada etapa do processo:
 
-- **Investigação:** identificação de problemas, formulação de hipóteses e definição de objetivos.
-- **Fundamentação:** revisão bibliográfica, análise da literatura e construção do referencial teórico.
-- **Experimentação:** planejamento experimental, implementação de métodos e avaliação de modelos.
-- **Análise:** tratamento estatístico, interpretação de resultados e comparação de abordagens.
-- **Comunicação científica:** documentação, reprodutibilidade e apresentação dos resultados.
+- **Investigação:** identificar o problema, formular hipóteses e definir objetivos.
+- **Fundamentação:** revisar e analisar a literatura para construir uma base teórica sólida.
+- **Experimentação:** planejar experimentos, implementar métodos e avaliar modelos.
+- **Análise:** tratar os dados estatisticamente, interpretar resultados e comparar abordagens.
+- **Comunicação científica:** documentar o trabalho, garantir a reprodutibilidade e apresentar os resultados com clareza.
 
 <br/>
 
