@@ -187,12 +187,10 @@ A pesquisa científica tem um espaço importante entre os meus interesses. Valor
 
 <div align="center">
 
-<img height="170" src="profile/stats.svg" alt="Estatísticas do GitHub" />
-<img height="170" src="profile/top-langs.svg" alt="Linguagens mais usadas" />
+<img width="49%" src="profile/stats.svg" alt="Estatísticas do GitHub" />
+<img width="49%" src="https://streak-stats.demolab.com?user=Burk087&locale=pt_BR&hide_border=true&card_width=495&background=10051F&ring=8054B8&fire=C084FC&stroke=432078&currStreakNum=F5EEFF&sideNums=F5EEFF&currStreakLabel=D8B4FE&sideLabels=D8B4FE&dates=B9A3E0" alt="Sequência de contribuições" />
 
-<img width="70%" src="https://streak-stats.demolab.com?user=Burk087&locale=pt_BR&hide_border=true&background=10051F&ring=8054B8&fire=C084FC&stroke=432078&currStreakNum=F5EEFF&sideNums=F5EEFF&currStreakLabel=D8B4FE&sideLabels=D8B4FE&dates=B9A3E0" />
-
-<br/>
+<br/><br/>
 
 <img width="100%" src="profile/snake.svg" alt="Cobrinha de contribuições" />
 
@@ -204,7 +202,7 @@ A pesquisa científica tem um espaço importante entre os meus interesses. Valor
 
 <br/><br/>
 
-<img width="100%" src="profile/pdi-network.svg" alt="Rede neural animada: Pesquisa, Desenvolvimento e Inovação" />
+<img width="100%" src="profile/brain.svg" alt="Cérebro de pontos girando, com sinapses de luz" />
 
 <br/><br/>
 
